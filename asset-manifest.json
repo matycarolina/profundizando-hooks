@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/profundizando-hooks/static/css/main.5ca993f2.css",
+    "main.js": "/profundizando-hooks/static/js/main.40657802.js",
+    "static/js/787.83d10f4b.chunk.js": "/profundizando-hooks/static/js/787.83d10f4b.chunk.js",
+    "index.html": "/profundizando-hooks/index.html",
+    "main.5ca993f2.css.map": "/profundizando-hooks/static/css/main.5ca993f2.css.map",
+    "main.40657802.js.map": "/profundizando-hooks/static/js/main.40657802.js.map",
+    "787.83d10f4b.chunk.js.map": "/profundizando-hooks/static/js/787.83d10f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca993f2.css",
+    "static/js/main.40657802.js"
+  ]
+}
