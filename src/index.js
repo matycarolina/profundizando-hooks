@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Padre } from "../src/components/07-tarea-memo/Padre";
+import { TodoApp } from "./components/08-useReducer/TodoApp";
+//import { Padre } from "../src/components/07-tarea-memo/Padre";
 //import { CallbackHook } from "./components/06-memos/CallbackHook";
 //import { MemoHook } from "./components/06-memos/MemoHook";
 //import { FormWithCustomHook } from "./components/02-useEffect/FormWithCustomHook";
@@ -12,10 +13,11 @@ import { Padre } from "../src/components/07-tarea-memo/Padre";
 //import { SimpleForm } from "./components/01-useState/02-useEffect/SimpleForm";
 //import { CounterApp } from "./components/01-useState/CounterApp";
 //import { CounterWithCustomHook } from "./components/01-useState/CounterWithCustomHook";
+//import "./components/08-useReducer/intro-reducer";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
-ReactDOM.render(<Padre />, document.getElementById("root"));
+ReactDOM.render(<TodoApp />, document.getElementById("root"));
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
